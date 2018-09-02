@@ -27,19 +27,16 @@ sidebar:
         level: Native
 
       - idiom: French
-        level: Professional
+        level: Basic
 
-      - idiom: Spanish
-        level: Professional
-        
     interests:
-      - item: Climbing
+      - item: Coding
         link:
 
-      - item: Snowboarding
+      - item: Cycling
         link:
 
-      - item: Cooking
+      - item: Watching movies
         link:
 
 career-profile:
@@ -54,22 +51,18 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Atmospheric Science
+      university: Colorado State University
+      time: 2013 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+      This project involved taking field measurements, processing the data and using computer models to predict concentrations of hazardous air pollutants downwind of well pads.
 
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc Honours in Physics
+      university: Dalhousie University
+      time: 2009 - 2013
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
