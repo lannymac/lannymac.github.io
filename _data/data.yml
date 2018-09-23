@@ -78,38 +78,32 @@ experiences:
     - role: Clinical Clerk
       time: July 2017
       company: Hospital of Traumatology and Orthopaedics, Riga, Latvia
-      details: |
-      Worked in a Trauma and Orthopedic Surgery Hospital by assisting in ORs and developing surgical skills.
+      details: Worked in a Trauma and Orthopedic Surgery Hospital by assisting in ORs and developing surgical skills.
 
     - role: Student Researcher
       time: June 2016 - August 2016
       company: Research in Medicine
-      details: |
-        Worked with Dr. Erik Scheme and Dr. Keith Brunt to perform a single-blinded pilot study with the goal of creating an algorithm to detect adverse cardiovascular events.
+      details: Worked with Dr. Erik Scheme and Dr. Keith Brunt to perform a single-blinded pilot study with the goal of creating an algorithm to detect adverse cardiovascular events.
 
     - role: Teaching Assistant
       time: January 2015 - May 2015
       company: Colorado State University
-      details: |
-        Helped teach a graduate level computer programming course for atmospheric scientists.
+      details: Helped teach a graduate level computer programming course for atmospheric scientists.
 
     - role: Graduate Research Assistant
       time: August 2013 - July 2015
       company: Colorado State University
-      details: |
-      	Performed research via data collection, analysis, and computer modelling to understand the effects of hydraulic fracturing on atmospheric emissions.
+      details: Performed research via data collection, analysis, and computer modelling to understand the effects of hydraulic fracturing on atmospheric emissions.
 
     - role: Undergraduate Research Assistant
       time: May 2012 - August 2012
       company: Jeffrey Pierce Group, Dalhousie University
-      details: |
-      	Performed cloud-resolving model simulations to reproduce marine stratus clouds and estimate the sensitivity of precipitation to aerosol concentrations.
+      details: Performed cloud-resolving model simulations to reproduce marine stratus clouds and estimate the sensitivity of precipitation to aerosol concentrations.
 
     - role: Undergraduate Research Assistant
       time: May 2011 - August 2011
       company: Jeffrey Dahn Lab, Dalhousie University
-      details: |
-        Optimized impregnation process for activated carbons with the goal of creating more efficient breathing mask material.
+      details: Optimized impregnation process for activated carbons with the goal of creating more efficient breathing mask material.
 
     - role: Summer Student in Therapeutic Services
       time: June 2009 - August 2009
