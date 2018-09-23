@@ -82,7 +82,7 @@ experiences:
 
     - role: Student Researcher
       time: June 2016 - August 2016
-      company: Research in Medicine
+      company: Research in Medicine, Dalhousie University
       details: Worked with Dr. Erik Scheme and Dr. Keith Brunt to perform a single-blinded pilot study with the goal of creating an algorithm to detect adverse cardiovascular events.
 
     - role: Teaching Assistant
@@ -96,7 +96,7 @@ experiences:
       details: Performed research via data collection, analysis, and computer modelling to understand the effects of hydraulic fracturing on atmospheric emissions.
 
     - role: Undergraduate Research Assistant
-      time: May 2012 - August 2012
+      time: May 2012 - August 2012, May 2013 - August 2013
       company: Jeffrey Pierce Group, Dalhousie University
       details: Performed cloud-resolving model simulations to reproduce marine stratus clouds and estimate the sensitivity of precipitation to aerosol concentrations.
 
@@ -106,7 +106,7 @@ experiences:
       details: Optimized impregnation process for activated carbons with the goal of creating more efficient breathing mask material.
 
     - role: Summer Student in Therapeutic Services
-      time: June 2009 - August 2009
+      time: June 2009 - August 2009, May 2010 - August 2010
       company: Horizon Health Network
       details: Created and analyzed databases for various departments in multiple hospitals and worked with patients in Cognitive Assessment Management.
 
@@ -114,7 +114,7 @@ experiences:
 
 publications:
     title: Publications
-    intro: My selected publications are found here. For a complete list, refer to my full CV.
+    intro: My selected publications are found here. For a complete list, refer to my full [CV](/assets/cv.pdf).
 
     papers:
       - title: "Prediction of Malignant Disease in Patients with Small Renal Masses"
