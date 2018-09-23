@@ -42,13 +42,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+    Physicist turned atmospheric scientist turned medical student. My goal
+    is to become a surgeon. I use my experience coding whenever I can during
+    medical school.
 
 education:
     - degree: Doctor of Medicine
@@ -82,48 +78,47 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Clinical Clerk
+      time: July 2017
+      company: Hospital of Traumatology and Orthopaedics, Riga, Latvia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+      Worked in a Trauma and Orthopedic Surgery Hospital by assisting in ORs and developing surgical skills.
 
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Student Researcher
+      time: June 2016 - August 2016
+      company: Research in Medicine
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Worked with Dr. Erik Scheme and Dr. Keith Brunt to perform a single-blinded pilot study with the goal of creating an algorithm to detect adverse cardiovascular events.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Teaching Assistant
+      time: January 2015 - May 2015
+      company: Colorado State University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Helped teach a graduate level computer programming course for atmospheric scientists.
 
-          - Bullet point
-          - Bullet point
+    - role: Graduate Research Assistant
+      time: August 2013 - July 2015
+      company: Colorado State University
+      details: |
+      	Performed research via data collection, analysis, and computer modelling to understand the effects of hydraulic fracturing on atmospheric emissions.
+
+    - role: Undergraduate Research Assistant
+      time: May 2012 - August 2012
+      company: Jeffrey Pierce Group, Dalhousie University
+      details: |
+      	Performed cloud-resolving model simulations to reproduce marine stratus clouds and estimate the sensitivity of precipitation to aerosol concentrations.
+
+    - role: Undergraduate Research Assistant
+      time: May 2011 - August 2011
+      company: Jeffrey Dahn Lab, Dalhousie University
+      details: |
+        Optimized impregnation process for activated carbons with the goal of creating more efficient breathing mask material.
+
+    - role: Summer Student in Therapeutic Services
+      time: June 2009 - August 2009
+      company: Horizon Health Network
+      details: Created and analyzed databases for various departments in multiple hospitals and worked with patients in Cognitive Assessment Management.
+
 
 projects:
     title: Projects
