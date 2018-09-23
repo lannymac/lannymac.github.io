@@ -76,37 +76,37 @@ education:
 
 experiences:
     - role: Clinical Clerk
-      time: July 2017
+      time: Jul 2017
       company: Hospital of Traumatology and Orthopaedics, Riga, Latvia
       details: Worked in a Trauma and Orthopedic Surgery Hospital by assisting in ORs and developing surgical skills.
 
     - role: Student Researcher
-      time: June 2016 - August 2016
+      time: Jun 2016 - Aug 2016
       company: Research in Medicine, Dalhousie University
       details: Worked with Dr. Erik Scheme and Dr. Keith Brunt to perform a single-blinded pilot study with the goal of creating an algorithm to detect adverse cardiovascular events.
 
     - role: Teaching Assistant
-      time: January 2015 - May 2015
+      time: Jan 2015 - May 2015
       company: Colorado State University
       details: Helped teach a graduate level computer programming course for atmospheric scientists.
 
     - role: Graduate Research Assistant
-      time: August 2013 - July 2015
+      time: Aug 2013 - Jul 2015
       company: Colorado State University
       details: Performed research via data collection, analysis, and computer modelling to understand the effects of hydraulic fracturing on atmospheric emissions.
 
     - role: Undergraduate Research Assistant
-      time: May 2012 - August 2012, May 2013 - August 2013
+      time: May 2012 - Aug 2012, May 2013 - Aug 2013
       company: Jeffrey Pierce Group, Dalhousie University
       details: Performed cloud-resolving model simulations to reproduce marine stratus clouds and estimate the sensitivity of precipitation to aerosol concentrations.
 
     - role: Undergraduate Research Assistant
-      time: May 2011 - August 2011
+      time: May 2011 - Aug 2011
       company: Jeffrey Dahn Lab, Dalhousie University
       details: Optimized impregnation process for activated carbons with the goal of creating more efficient breathing mask material.
 
     - role: Summer Student in Therapeutic Services
-      time: June 2009 - August 2009, May 2010 - August 2010
+      time: Jun 2009 - Aug 2009, May 2010 - Aug 2010
       company: Horizon Health Network
       details: Created and analyzed databases for various departments in multiple hospitals and worked with patients in Cognitive Assessment Management.
 
@@ -119,7 +119,7 @@ publications:
     papers:
       - title: "Prediction of Malignant Disease in Patients with Small Renal Masses"
         authors: Michael Organ, Landan MacDonald, Michael A. S. Jewett, Henry Ajzenberg, Ashraf Almatar, Mohamed Abdolell, and Ricardo A. Rendon
-        conference: "CUAJ, January 2019"
+        conference: "CUAJ, Jan 2019"
 
       - title: "Outcome analysis of patients with Peyronie’s disease who elect for non-invasive treatment"
         authors: Landan MacDonald, Luke Armstrong, Kyle Lehmann, Matthew Acker, and Gavin Langille
