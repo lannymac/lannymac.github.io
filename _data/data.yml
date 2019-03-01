@@ -42,9 +42,19 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: Physicist turned atmospheric scientist turned medical student. My goal is to become a surgeon. I use my experience coding whenever I can during medical school. For a complete record of my accomplishments, check out my full [CV](/assets/cv.pdf).
+    summary: Physicist turned atmospheric scientist turned medical student turned urology resident. I use my experience coding whenever I can during residency. For a complete record of my accomplishments, check out my full [CV](/assets/cv.pdf).
 
 education:
+    - degree: Urology Residency
+      university: Dalhousie University
+      time: 2019 - 2024
+      details: |
+
+          - Bullet point
+          - Bullet point 
+
+
+
     - degree: Doctor of Medicine
       university: Dalhousie University
       time: 2015 - 2019
