@@ -128,47 +128,41 @@ publications:
     intro: My selected publications are found here. For a complete list, refer to my full [CV](/assets/cv.pdf).
 
     papers:
-      - title: "Prediction of Malignant Disease in Patients with Small Renal Masses"
-        authors: Michael Organ, Landan MacDonald, Michael A. S. Jewett, Henry Ajzenberg, Ashraf Almatar, Mohamed Abdolell, and Ricardo A. Rendon
-        conference: "CUAJ, Jan 2019"
-
       - title: "Outcome analysis of patients with Peyronie’s disease who elect for non-invasive treatment"
         authors: Landan MacDonald, Luke Armstrong, Kyle Lehmann, Matthew Acker, and Gavin Langille
-        conference: "Journal of Urology, Submitted 2018"
-
-      - title: "Methane Emissions from Unconventional Natural Gas Well Drilling and Completion Activities are dominated by Flowback Emissions"
-        authors: Landan MacDonald, Arsineh Hecobian, Andrea Clements, Kira Shonkwiler, Noel Hilliard, Bradley Wells, Jay Ham, Jeffrey Pierce, and Jeffrey L. Jr. Collett
-        conference: "PNAS, in preparation, 2018"
-
-      - title: "Methane Emissions from Unconventional Natural Gas Well Drilling and Completion Activities are dominated by Flowback Emissions"
-        authors: Landan MacDonald, Arsineh Hecobian, Andrea Clements, Kira Shonkwiler, Noel Hilliard, Bradley Wells, Jay Ham, Jeffrey Pierce, and Jeffrey L. Jr. Collett
-        conference: "PNAS, in preparation, 2018"
-
+        conference: "CUAJ, Submitted, 2019"
+	
       - title: "Non-Invasvie Management of Peyronie’s Disease"
         authors: Landan MacDonald, Jesse Ory, and Gavin Langille
-        conference: "Sexual Medicine Reviews, in preparation, 2018"
+        conference: "Sexual Medicine Reviews, Submitted, 2019"
 
+      - title: "Using patient and tumour characteristics for the prediction of non-diagnostic biopsies in patients with small renal masses"
+        authors: Charlie Gillis, Landan MacDonald, Ricardo Rendon, Michael A. S. Jewett, Henry Ajzenberg, Ashraf Almatar, Mohamed Abdolell, Ricardo Rendon, and Michael Organ
+        conference: "CUAJ, Submitted, 2019"
+
+      - title: "Case - Nephroureterectomy of a right-to-left cross fused renal ectopia with urothelial carcinoma"
+        authors: Landan MacDonald, Jason Hearn, Rebecca J. Power, Paul Johnston, Michael Organ
+        conference: "Canadian Journal of Urology, Submitted, 2019"
+
+      - title: "Classification tree for the prediction of malignant disease and the prediction of non-diagnostic biopsies in patients with small renal masses"
+        authors: Michael Organ, Landan MacDonald, Michael A. S. Jewett, Henry Ajzenberg, Ashraf Almatar, Mohamed Abdolell, and Ricardo A. Rendon
+        conference: "CUAJ, Jul 2018"
 
       - title: "Outcome analysis of patients with Peyronie’s disease who elect for non-invasive treatment"
         authors: Landan MacDonald, Luke Armstrong, Kyle Lehmann, Matthew Acker, and Gavin Langille
         conference: "AUA Annual Meeting 2017, Boston, MA"
 
+      - title: "Outcome analysis of patients with Peyronie’s disease who elect for non-invasive treatment"
+        authors: Landan MacDonald, Luke Armstrong, Kyle Lehmann, Matthew Acker, and Gavin Langille
+        conference: "CUA Annual Meeting 2016, Vancouver, BC"
+
       - title: "Drug Adherence Detection using a Blood Pressure Device as a Strategy to Improve Patient Care"
         authors: Landan MacDonald, Satinder Gill, Sohrab Lutchmedial, Erik Scheme, and Keith Brunt
         conference: "New Brunswick Health Research Foundation Conference 2017, Moncton, NB"
 
-
       - title: "A workable model of a near-peer inter-professional education in anatomy"
         authors: Landan MacDonald, Sean Gormley, Amy Brown, Madison Howatt, Tammie Fournier, and Akram Jaffar
         conference: "The Canadian Conference on Medical Education, 2017, Winnipeg, NB"
-
-      - title: "Testing Emission Rate Determining Methods via Controlled Field Experiments"
-        authors: Landan MacDonald, Bradley Wells, Arsineh Hecobian, Andrea Clements, Kira Shonkwiler, Jeffrey R. Pierce, Jay M. Ham, and Jeffrey L. Jr. Collett
-        conference: "96th American Meteorological Society Annual Meeting 2015, Phoenix, AZ"
-
-      - title: "Software to analyze the relationship between aerosol, clouds, and precipitation: SAMAC"
-        authors: Stéphanie Gagné, Landan MacDonald, W. Richard Leaitch, and Jeffrey R. Pierce
-        conference: "Atmospheric Measurement Techniques, 2016"
 
 
 skills:
